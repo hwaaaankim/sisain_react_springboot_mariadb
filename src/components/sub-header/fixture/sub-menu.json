@@ -1,0 +1,184 @@
+[
+  {
+    "name": "person",
+    "tag": "/person",
+    "info": [
+      {
+        "to": "/person/2020",
+        "years": "2020"
+      },
+      {
+        "to": "/person/2019",
+        "years": "2019"
+      },
+      {
+        "to": "/person/2018",
+        "years": "2018"
+      },
+      {
+        "to": "/person/2017",
+        "years": "2017"
+      },
+      {
+        "to": "/person/2016",
+        "years": "2016"
+      }
+    ]
+  },
+  {
+    "name": "photo",
+    "tag": "/photo",
+    "info": [
+      {
+        "to": "/photo/2020",
+        "years": "2020"
+      },
+      {
+        "to": "/photo/2019",
+        "years": "2019"
+      },
+      {
+        "to": "/photo/2018",
+        "years": "2018"
+      },
+      {
+        "to": "/photo/2017",
+        "years": "2017"
+      },
+      {
+        "to": "/photo/2016",
+        "years": "2016"
+      }
+    ]
+  },
+  {
+    "name": "archive",
+    "tag": "/archive",
+    "years": [
+      {
+        "tag": "year",
+        "value": "2020",
+        "label": "2020"
+      },
+      {
+        "tag": "year",
+        "value": "2019",
+        "label": "2019"
+      },
+      {
+        "tag": "year",
+        "value": "2018",
+        "label": "2018"
+      },
+      {
+        "tag": "year",
+        "value": "2017",
+        "label": "2017"
+      },
+      {
+        "tag": "year",
+        "value": "2016",
+        "label": "2016"
+      }
+    ],
+    "photographer": [
+      {
+        "tag": "photographer",
+        "value": "김환",
+        "label": "김환"
+      },
+      {
+        "tag": "photographer",
+        "value": "송민진",
+        "label": "송민진"
+      },
+      {
+        "tag": "photographer",
+        "value": "최형윤",
+        "label": "최형윤"
+      }
+    ],
+    "author": [
+      {
+        "tag": "author",
+        "value": "김환",
+        "label": "김환"
+      },
+      {
+        "tag": "author",
+        "value": "송민진",
+        "label": "송민진"
+      },
+      {
+        "tag": "author",
+        "value": "최형윤",
+        "label": "최형윤"
+      }
+    ]
+  },
+  {
+    "name": "gallery",
+    "tag": "/gallery",
+    "years": [
+      {
+        "tag": "year",
+        "value": "2020",
+        "label": "2020"
+      },
+      {
+        "tag": "year",
+        "value": "2019",
+        "label": "2019"
+      },
+      {
+        "tag": "year",
+        "value": "2018",
+        "label": "2018"
+      },
+      {
+        "tag": "year",
+        "value": "2017",
+        "label": "2017"
+      },
+      {
+        "tag": "year",
+        "value": "2016",
+        "label": "2016"
+      }
+    ],
+    "photographer": [
+      {
+        "tag": "photographer",
+        "value": "김환",
+        "label": "김환"
+      },
+      {
+        "tag": "photographer",
+        "value": "송민진",
+        "label": "송민진"
+      },
+      {
+        "tag": "photographer",
+        "value": "최형윤",
+        "label": "최형윤"
+      }
+    ],
+    "author": [
+      {
+        "tag": "author",
+        "value": "김환",
+        "label": "김환"
+      },
+      {
+        "tag": "author",
+        "value": "송민진",
+        "label": "송민진"
+      },
+      {
+        "tag": "author",
+        "value": "최형윤",
+        "label": "최형윤"
+      }
+    ]
+  }
+]

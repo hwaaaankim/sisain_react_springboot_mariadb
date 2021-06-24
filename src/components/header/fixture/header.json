@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "올해의 인물",
+    "to": "/person/2020",
+    "tag": "/person"
+  },
+  {
+    "id": 1,
+    "name": "올해의 사진",
+    "to": "/photo/2020",
+    "tag": "/photo"
+  },
+  {
+    "id": 2,
+    "name": "아카이브",
+    "to": "/archive",
+    "tag": "/archive"
+  },
+  {
+    "id": 3,
+    "name": "갤러리",
+    "to": "/gallery",
+    "tag": "/gallery"
+  }
+]
